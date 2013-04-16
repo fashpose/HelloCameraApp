@@ -467,6 +467,7 @@
 				15DDE1E51683B427008FE7EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		15DDE1E61683B427008FE7EA /* Build configuration list for PBXNativeTarget "HelloCameraAppTests" */ = {
 			isa = XCConfigurationList;
@@ -475,6 +476,7 @@
 				15DDE1E81683B427008FE7EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
